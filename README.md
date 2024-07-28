@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-**MR-DARK54/MR-DARK54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mr-dark55/mr-dark55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🌟 Welcome to My Profile!
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me: **@Mr_Dark55**
 - 😄 Pronouns: **!!**
 
-### Hi there 👋, my name is **D A R K**
+### Hi there 👋, my name is **./Mr-Dark**
 
 #### I am the Creator of the GitHub Readme Generator
 
