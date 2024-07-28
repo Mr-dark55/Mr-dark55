@@ -5,9 +5,9 @@
 ### 🌟 Welcome to My Profile!
 
 - 🔭 I’m currently working on **Development**
-- 🌱 I’m currently learning **Python, Django, HTML, CSS, Bootstrap**
+- 🌱 I’m currently learning **bug bounty | pentester | Ethical hacking **
 - 👯 I’m looking to collaborate on **Exciting Projects**
-- 📫 How to reach me: **name__dark**
+- 📫 How to reach me: **@Mr_Dark55**
 - 😄 Pronouns: **!!**
 
 ### Hi there 👋, my name is **D A R K**
@@ -24,8 +24,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ### Skills
 - **VUE**
-- **HTML**
-- **CSS/Bootstrap**
-- **Python/Django**
+- **python**
+- **js/php**
+- **bug bounty**
 
 🔭 I’m currently working on this page.
